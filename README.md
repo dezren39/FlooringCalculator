@@ -73,5 +73,6 @@ School Thing
 				anotherRoom = scan.next();
 				System.out.println();		
 			}
+			
 			scan.close();
 		}
